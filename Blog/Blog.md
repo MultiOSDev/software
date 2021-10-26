@@ -1,10 +1,10 @@
-UPDATE! 
-1 new project has been stared!
+10/25/2021
 
-The projects are:
-1. A nice command line app
-2. (Possibly) a text editor 
-3. (Highly unlikely) an OS
+I have been busy with some stuff, and I'm making this post to announce that i am starting a few new projects.
 
-A WHOLE lot of research is needed for the 3rd one, as i have NO idea how to make one
-Expect a release by around December-March 2022 release, as i am also adding a GUI after i make a commnd line interface
+1. Paddleball(with different modes, and mod support coming up, and a lot other features)
+2. A Command prompt
+3. A text editor
+4. A file manager
+
+the Paddleball game's release version pre-Release Candidate 0.2 should come out around March 2022
