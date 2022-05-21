@@ -1,2 +1,2 @@
-# Hub
-The software page for my github site
+# Software & Blogging
+- [Latest News] (software/blog/blog.md]
